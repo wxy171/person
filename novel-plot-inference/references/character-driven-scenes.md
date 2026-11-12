@@ -44,6 +44,25 @@ Conflict need not mean violence or a villain. It can arise when:
 
 Do not assume reluctance, deception, hostility or secrecy without support. A person may simply lack the information or disagree honestly.
 
+### Cooperation is not the same as trust
+
+A character can accept a shared action without accepting the other person's explanation. Separate three layers:
+- **practical agreement**: what they will do together;
+- **epistemic agreement**: what they believe to be true;
+- **relational trust**: how much they rely on one another.
+
+These layers can move independently. A character may follow a lead because it overlaps with their own investigation while still doubting the person who supplied it. Do not let a single “yes” silently settle all three layers.
+
+### Converging goals
+
+When two characters arrive with separate objectives, look for a grounded overlap: the same destination, a shared source, a person relevant to both, or an action that advances both aims. The overlap can propel the scene while preserving different motives and unresolved disagreements.
+
+For the scene to remain character-driven, make clear:
+- what each person wants from the shared action;
+- what each person is not agreeing to;
+- why the focal character chooses to proceed now;
+- what new information or changed condition could make their goals diverge again.
+
 ## 4. Let dialogue perform actions
 
 Dialogue should do something:
