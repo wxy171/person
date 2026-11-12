@@ -69,6 +69,17 @@ A character may choose not to act, delay, conceal, abandon the goal or change ta
 
 An external event without a character choice is possible, but its trigger, source and causal role must be grounded or marked as a new proposal.
 
+### Goal convergence without belief convergence
+
+Two characters' goals may point toward the same person, place, evidence or next action even when they disagree about identity, explanation or motive. This can create a credible temporary alliance without prematurely resolving trust.
+
+When one character agrees to accompany or assist another, distinguish:
+- the **action accepted** (travel together, inspect a lead, meet someone);
+- the **reason accepted** (the practical overlap that makes the action worthwhile);
+- the **claim not accepted** (identity, kinship, interpretation or explanation still in doubt).
+
+Do not infer belief or trust from cooperation alone. The action should have an independent reason grounded in the focal character's own goal or available evidence. After the joint action, reassess whether the two goals still align.
+
 ## 5. Build the dynamic plot loop
 
 Use:
