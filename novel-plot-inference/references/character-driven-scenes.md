@@ -2,89 +2,103 @@
 
 ## Purpose
 
-Design scenes around what people want and do, not around the need to display setting mechanisms or deliver exposition.
+Turn a character's current goal and situation into a playable scene with visible tactics, responses and a meaningful turn.
 
-## 1. Scene engine
+## 1. Find the scene's actual engine
 
-A useful scene model is:
+Identify:
+- **focal character**: whose immediate experience organizes the scene;
+- **starting situation**: what is already happening when the scene opens;
+- **immediate objective**: the concrete change the character wants now;
+- **reason now**: why the objective matters at this moment;
+- **opposing pressure**: a person, competing aim, information limit, process, environment or internal conflict already supported by the project;
+- **available tactic**: what the character can actually try;
+- **response**: how the other side reacts;
+- **turn**: what changes the active situation;
+- **outcome**: what is achieved, blocked, exposed, delayed or left unresolved;
+- **next choice**: what the focal character must now decide.
 
-- **Viewpoint / focal character**: whose immediate experience organizes the scene?
-- **Immediate objective**: what concrete result do they want now?
-- **Reason now**: why can this not wait?
-- **Opposing force**: who or what prevents the objective, and why?
-- **Tactic**: what does the character try?
-- **Response**: how do others or the environment react?
-- **Turn**: what changes the character's understanding, options, or strategy?
-- **Outcome**: what is gained, lost, delayed, exposed, or left unresolved?
-- **Next pressure**: what new question or need pushes the story onward?
+If the objective or starting situation is unknown, do not fill it with a generic “investigate” or “find the truth” goal. Mark it as missing, then offer clearly conditional scene premises if useful.
 
-These are analysis prompts, not mandatory fields in every scene. Follow the project's own scene format if one exists.
+## 2. Make actions playable
 
-## 2. Make objectives concrete
+Avoid abstract beats such as:
+- they discuss the issue;
+- they investigate further;
+- they discover something is wrong;
+- their relationship becomes complicated.
 
-Prefer a scene objective that can be acted on or recognized:
-- obtain a specific answer;
-- persuade a particular person;
-- verify a discrepancy;
-- avoid revealing information;
-- reach or leave a place;
-- protect a relationship or position;
-- decide whether to trust a source.
+Replace them with concrete behavior when the project provides enough information: whom the character approaches, what they ask or test, what they show or withhold, what answer they receive, what they do with that answer.
 
-Do not invent an objective if the character's intention is not established. Offer candidate objectives as proposals.
+If the exact object, evidence or person is not established, keep it as a placeholder or explicitly label a new proposal. Do not fabricate specificity.
 
-## 3. Build conflict from incompatible aims
+## 3. Build conflict from tactics and incompatible aims
 
 Conflict need not mean violence or a villain. It can arise when:
-- two people want incompatible outcomes;
-- one person needs an answer another cannot or will not provide;
+- two characters seek incompatible outcomes;
+- one needs an answer another cannot provide;
 - characters interpret the same evidence differently;
-- a character's goal conflicts with their own belief or commitment;
-- an institution follows a process that frustrates an individual aim;
-- time, access, uncertainty, or limited resources constrain action.
+- one person's tactic threatens another's goal;
+- a process or access restriction blocks an immediate objective;
+- a character's own belief or commitment conflicts with what they need to do.
 
-Use only forms of pressure allowed by the project's genre and explicit prohibitions.
+Do not assume reluctance, deception, hostility or secrecy without support. A person may simply lack the information or disagree honestly.
 
 ## 4. Let dialogue perform actions
 
-Dialogue can:
-- ask, test, negotiate, conceal, correct, refuse, redirect, challenge, or commit;
-- reveal different knowledge states;
-- change trust or the available choices;
-- establish what one person is willing to acknowledge.
+Dialogue should do something:
+- ask for a specific fact;
+- test whether a source is reliable;
+- negotiate access or cooperation;
+- refuse, correct, redirect or challenge;
+- conceal only when concealment is established;
+- commit to or withdraw from a course of action.
 
-Avoid dialogue that only explains rules the characters already know. Do not make a character explain information they do not possess.
+Track what each speaker knows. Do not turn dialogue into exposition that explains known rules to knowledgeable characters.
 
-## 5. Scene turn
+## 5. Design a causal turn
 
-A turn is not necessarily a twist. It is a change in the scene's active situation, such as:
-- the objective becomes harder or changes;
-- a source proves less reliable than expected;
-- a character realizes their question was wrong;
-- another person makes a choice that changes the options;
-- a new fact changes the meaning of earlier evidence.
+A turn changes the scene's active situation because of an action, response or newly available fact. For example, a question reveals that the two characters were using the same word differently; a request changes what one person is willing to provide; a test fails to distinguish two competing explanations.
 
-The turn must arise from what happened in the scene, not from an arbitrary interruption.
+These are structural examples, not plot facts to import.
 
-## 6. End with changed conditions
+For every turn, state:
+- what the focal character expected;
+- what actually happened;
+- what caused the difference;
+- how the character updates their judgment;
+- what new tactic or choice becomes available.
 
-A scene should normally leave at least one meaningful state changed:
-- what the focal character knows or suspects;
-- what they intend to do;
-- what another person is willing to do;
-- which relationship or commitment is active;
-- which route is now possible or closed;
-- what risk or unresolved question remains.
+## 6. End on a changed state
 
-A scene may deliberately end in apparent stasis, but explain what tension or expectation that stasis preserves.
+A scene should normally alter at least one:
+- goal or tactic;
+- knowledge or confidence;
+- willingness to cooperate;
+- relationship condition;
+- available route;
+- risk, obligation or unresolved question.
 
-## 7. Scene design checklist
+Do not impose a cost or relationship change merely to make the ending feel dramatic. If the scene intentionally preserves the state, identify the tension it sustains.
 
-- [ ] The focal character has a legible immediate objective.
-- [ ] The objective follows from their current situation.
-- [ ] The character uses only available knowledge and abilities.
-- [ ] The opposing force is grounded in established conditions.
-- [ ] Actions produce responses.
-- [ ] The scene turn is causally earned.
-- [ ] The outcome changes or deliberately preserves a meaningful state.
-- [ ] The scene does not exist merely to showcase a mechanism.
+## 7. Scene-to-scene handoff
+
+The next scene should arise from:
+- an intention formed in this scene;
+- a consequence that now needs a response;
+- a new person or resource the character has a reason to approach;
+- an unresolved question that has become actionable;
+- an independent event with a grounded trigger.
+
+Do not end every scene with a generic mystery or cliffhanger.
+
+## 8. Scene audit
+
+- [ ] Objective and reason-now are grounded.
+- [ ] Actions are concrete and playable.
+- [ ] The character uses only available knowledge and capabilities.
+- [ ] Opposition is grounded, not invented for convenience.
+- [ ] Responses follow from the other actor's state.
+- [ ] The turn is caused by what happened in the scene.
+- [ ] The ending changes or deliberately preserves a meaningful state.
+- [ ] The next scene has a causal or independently grounded starting point.
