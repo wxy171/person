@@ -16,16 +16,17 @@ Distinguish:
 
 Do not treat one stage as authorization for the next.
 
-## 2. Offer useful creative work
+## 2. Be creatively useful without laundering assumptions
 
 Do not stop at saying a gap exists. When possible:
 - show what can already be deduced;
 - identify the exact missing link;
-- offer one or more ways to explore it;
-- explain the trade-offs;
+- generate candidate ways to bridge it;
+- label each new premise or event;
+- explain dramatic effect, character impact and continuity cost;
 - preserve the author's right to reject all options.
 
-Do not invent a missing premise and hide it inside an otherwise plausible outline.
+When the available material does not identify a concrete protagonist goal, current problem or event to respond to, do not invent one. State the missing plot anchor and ask one essential question, or offer conditional premises clearly marked as new proposals.
 
 ## 3. Approval checkpoints
 
@@ -46,14 +47,21 @@ Do not edit project files for a brainstorm, analysis, or recommendation. For aut
 - update only affected dependencies;
 - re-read changed files and verify links and continuity.
 
-## 5. Response format
+## 5. Response quality
 
 Prefer:
 - the dramatic question;
-- confirmed starting conditions;
-- candidate action paths;
-- consequences and trade-offs;
-- unresolved author decisions;
-- one recommended next step, if useful.
+- concrete starting state and character goal;
+- a playable action sequence;
+- reactions and state changes;
+- the next choice created by those changes;
+- meaningful alternative paths;
+- explicit assumptions and unresolved decisions.
 
-Avoid excessive forms and generic questionnaires. Ask only the single most important clarification when progress truly depends on it.
+Do not spend most of the answer restating the setting. The point is to use project knowledge to produce better plot movement.
+
+Avoid generic beats (“investigate further”, “discover an anomaly”, “the relationship changes”) unless the character's concrete action and the causal result are specified.
+
+## 6. Response format
+
+Keep the output proportional to the task. A small question may need a short action analysis; a sequence design may need several feedback cycles and branch comparison. Do not force a fixed template when it obscures the actual story.
