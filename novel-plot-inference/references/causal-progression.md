@@ -2,86 +2,110 @@
 
 ## Purpose
 
-Design connected events in which each development changes the conditions for what follows.
+Design a sequence as a chain of changing states and renewed choices, not as a list of events connected only by chronology.
 
-## 1. Event chain
+## 1. Track state, not just events
 
-For each event, record:
-- prior state;
-- initiating action or trigger;
-- actor and intention, if any;
-- immediate response;
-- direct result;
-- delayed result, if established or proposed;
-- changed conditions for the next event.
+At each beat, record only dimensions relevant to the plot:
+- character goals and intentions;
+- knowledge, beliefs and uncertainty;
+- relationships, commitments and willingness;
+- access, resources and capabilities;
+- external conditions and active pressures;
+- available choices.
 
-Do not confuse chronological order with causation. Two events occurring consecutively do not prove that one caused the other.
+The state after a beat should be compared with the state before it. Identify exactly what changed and what did not.
 
-## 2. Consequence layers
+## 2. Dynamic feedback loop
+
+Use:
+
+`Current State → Judgment → Choice → Action → Response → Outcome → New State → Reassessment`
+
+The next beat begins from the new state, not from the original outline. Reassess what the character now wants and what choices remain.
+
+A sequence may include independent external events, but each needs its own trigger and source. Do not falsely attribute it to the preceding beat.
+
+## 3. Beat specification
+
+For each beat, identify:
+- trigger or initiating condition;
+- acting person/force;
+- concrete action;
+- immediate objective or function;
+- information and capability required;
+- response and its cause;
+- immediate outcome;
+- state delta;
+- next available choice or pressure.
+
+If one of these is unknown, label the gap rather than inventing an answer.
+
+## 4. Consequence layers
 
 When useful, distinguish:
-- **immediate consequence**: what changes in the current scene;
-- **personal consequence**: how a character's options, beliefs, goals, or relationships change;
-- **social consequence**: how other people or institutions respond;
-- **structural consequence**: how the larger plot state changes;
-- **information consequence**: what becomes known, suspected, concealed, or newly uncertain.
+- immediate scene consequence;
+- personal consequence for a character;
+- interpersonal/social response;
+- structural plot change;
+- information consequence.
 
-Only include consequence types supported by the story. Do not impose a cost or punishment formula.
+Only include consequences supported by the story or explicitly marked as new proposals. Do not impose a standard cost, punishment, sacrifice or exchange rate.
 
-## 3. Escalation without arbitrary inflation
+## 5. Escalation through changed choices
 
-Escalation can mean:
-- the same objective becomes harder;
-- the character has fewer viable choices;
-- a previous solution creates a new obligation;
-- a decision affects more people;
+Escalation can occur when:
+- an objective becomes harder;
+- the character has fewer or different viable choices;
+- a prior action creates a new obligation;
+- a decision affects another person's goals;
 - uncertainty becomes more consequential;
-- the character must act with incomplete or conflicting information;
-- a private choice becomes visible to others.
+- the character must choose before all information is available;
+- a private decision changes what others are willing to do.
 
-Do not equate escalation with bigger explosions, stronger opponents, higher body counts, or increasingly powerful mechanisms. Use the project's genre and constraints.
+Escalation does not require a stronger enemy, bigger spectacle or more powerful mechanism. The pressure must emerge from established or explicitly proposed conditions.
 
-## 4. Reversals and surprises
-
-A reversal is earned when new information, a character's choice, or an already established condition changes the expected outcome.
+## 6. Reversals and surprises
 
 For every reversal, identify:
-- what the audience expected;
-- which prior evidence made that expectation reasonable;
-- what new action or information changes it;
-- why the result is surprising but not arbitrary;
-- what new state follows.
+- the expectation being overturned;
+- evidence that made the expectation reasonable;
+- the new action, response or information;
+- why the change is surprising but not arbitrary;
+- the new state and next choice.
 
-Do not use coincidence to rescue a stalled plot unless the project explicitly permits and supports it.
+Do not use coincidence to rescue a stalled plot unless the project supports it.
 
-## 5. Branch design
+## 7. Branches and downstream effects
 
-A branch should originate from a meaningful difference:
-- a character chooses another tactic;
-- a character receives or rejects information;
-- another actor responds differently for an established reason;
-- a character's belief changes;
-- a known condition is met or not met.
+A branch begins at a meaningful difference in choice, tactic, information, response, belief or condition.
 
-For each branch, show downstream consequences and whether it requires a new author decision.
+Trace each branch at least one further feedback cycle:
+- what the choice changes immediately;
+- how affected people respond;
+- how the new state changes the next choice.
 
-## 6. Delayed consequences
+Do not compare branches only by their first event. Their value lies in the different paths they create.
 
-A delayed consequence is valid only if the causal connection can be traced. It need not be immediately visible to the character or reader, but the author-facing reasoning should identify:
-- the original cause;
-- the condition that delays the effect;
+## 8. Delayed consequences
+
+For a delayed consequence, identify:
+- original cause;
+- condition that delays the effect;
 - why the effect appears at this later point;
-- whether the character can recognize the connection.
+- who can recognize the connection.
 
-If the delay mechanism is not established, mark it as a proposal or unresolved gap.
+If the delay mechanism is not established, label it as a new proposal or unresolved dependency.
 
-## 7. Causal audit
+## 9. Causal audit
 
 Flag:
-- action with no motive or trigger;
-- outcome with no sufficient cause;
-- response from an actor who could not know about the event;
-- consequence that ignores a stated constraint;
-- repeated obstacle that does not change the situation;
-- event inserted only to force the next plot point;
-- causal claim inferred solely from temporal sequence.
+- action without motive or trigger;
+- result without sufficient cause;
+- response by someone who could not know of the event;
+- outcome that ignores a stated constraint;
+- next beat that does not follow from the new state;
+- repeated obstacle that changes nothing;
+- unexplained time jump;
+- coincidence used to repair a broken chain;
+- external event falsely presented as caused by the preceding action.
