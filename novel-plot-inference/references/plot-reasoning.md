@@ -69,6 +69,18 @@ A character may choose not to act, delay, conceal, abandon the goal or change ta
 
 An external event without a character choice is possible, but its trigger, source and causal role must be grounded or marked as a new proposal.
 
+### Same target, incompatible reasons
+
+A particularly useful plot engine occurs when two characters are looking for the same person, place or piece of information, but the reasons they give do not match and neither can verify the other's account.
+
+Keep four questions separate:
+1. **Target identity**: are they actually referring to the same target? If confirmed, treat it as a shared fact, not a coincidence.
+2. **Individual purpose**: what does each character want from reaching or finding that target?
+3. **Reason/evidence**: what grounds does each character give, and what can the other independently verify?
+4. **Practical next action**: what can they do together even while the reasons remain unresolved?
+
+Do not resolve this conflict by making one character immediately persuade the other, by turning the target into an exposition source, or by making the shared destination prove either explanation. The target may advance one line while leaving the other unresolved; if so, state exactly which question moved and which did not.
+
 ### Goal convergence without belief convergence
 
 Two characters' goals may point toward the same person, place, evidence or next action even when they disagree about identity, explanation or motive. This can create a credible temporary alliance without prematurely resolving trust.
